@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>jenaexamples</groupId>
-  <artifactId>inference</artifactId>
+  <artifactId>jenaexamples</artifactId>
   <version>0.0.1</version>
   <packaging>jar</packaging>
 
-  <name>inference</name>
+  <name>jenaexamples</name>
   <url>http://maven.apache.org</url>
 
   <properties>
